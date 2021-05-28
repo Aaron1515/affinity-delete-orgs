@@ -130,3 +130,6 @@ dmypy.json
 
 # API keys
 api-keys.py
+
+# List of orgs to be deleted
+orgs.py
