@@ -1,5 +1,0 @@
-org_id, status code, notes
-265066382, 200, {'success': True}
-1515260, 422, Field organization_id: 1515260 no longer exists as it has been merged into 282286246 (Affinity::Validator::ModelError)
-
-Number of successful organizations removed: 1
