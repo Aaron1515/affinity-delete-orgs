@@ -1,0 +1,5 @@
+Organization ID, Status code, Note
+281918637, 422, Field organization_id: expected 281918637 to be a valid id for model Affinity::Models::Company: 0 (Affinity::Validator::ModelError)
+2167322, 422, Cannot delete organization because it is global
+
+Number of successful organizations removed: 0
